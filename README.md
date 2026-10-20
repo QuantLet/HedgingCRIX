@@ -9,7 +9,7 @@ Name of QuantLet: HedgingCrix_models_paths
 
 Published in: Hedging under jump induced market incompleteness
 
-Description: Simulation of Euler discretized hedge models including the Geometric Brownian Motion (Black-Scholes), Merton Jump
+Description: Simulation of Euler discretized hedge models including the Geometric Brownian Motion (Black-Scholes), Merton Jump Diffusion and the dynamics under Heston's Stochastic Volatility Model.
 
 Keywords: Black Scholes, Merton jump diffusion, Stochastic Volatility, Heston Model, volatility, process, Euler discretization, jumps
 
